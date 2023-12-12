@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-12T22:30:47 GMT" name="Default Suite" finished-at="2023-12-12T22:31:43 GMT" duration-ms="56933">
+    <groups>
+      <group name="regression">
+        <method signature="DesktopsTest.verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" name="verifyProductArrangeInAlphabeticalOrder" class="com.tutorialsninja.demo.testsuite.DesktopsTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DesktopsTest.verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" name="verifyProductArrangeInAlphabeticalOrder" class="com.tutorialsninja.demo.testsuite.DesktopsTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="DesktopsTest.verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" name="verifyProductArrangeInAlphabeticalOrder" class="com.tutorialsninja.demo.testsuite.DesktopsTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-12-12T22:30:47 GMT" name="tutorialsninja-com-sw-5" finished-at="2023-12-12T22:31:43 GMT" duration-ms="56933">
+      <class name="com.tutorialsninja.demo.testsuite.DesktopsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" started-at="2023-12-12T22:30:52 GMT" name="setUp" finished-at="2023-12-12T22:31:23 GMT" duration-ms="31200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="inIt()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" started-at="2023-12-12T22:31:23 GMT" name="inIt" finished-at="2023-12-12T22:31:23 GMT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method signature="verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" started-at="2023-12-12T22:31:23 GMT" name="verifyProductArrangeInAlphabeticalOrder" finished-at="2023-12-12T22:31:40 GMT" duration-ms="16742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphabeticalOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.demo.testsuite.DesktopsTest@769f71a9]" started-at="2023-12-12T22:31:40 GMT" name="tearDown" finished-at="2023-12-12T22:31:43 GMT" duration-ms="3246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.demo.testsuite.DesktopsTest -->
+    </test> <!-- tutorialsninja-com-sw-5 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
